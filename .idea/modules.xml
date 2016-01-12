@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/aja_php.iml" filepath="$PROJECT_DIR$/.idea/aja_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ajax_php_JQuery.iml" filepath="$PROJECT_DIR$/.idea/ajax_php_JQuery.iml" />
     </modules>
   </component>
 </project>
