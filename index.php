@@ -12,7 +12,6 @@
 <div id="box">
     <h2>New user register here:</h2>
     <input type="text" name="name" id="name" placeholder="Enter Your Name">
-    <br>
     <input type="button" name="sub" value="Submit" id="sub">
     <div id="result"></div>
 </div>
